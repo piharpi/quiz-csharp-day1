@@ -2,6 +2,8 @@
 {
     internal class Answer
     {
+
+        // Number 1
         public static void NumSum()
         {
             int result = 0;
@@ -17,7 +19,7 @@
             Console.WriteLine(result);
         }
 
-
+        // Number 2
         public static void StringSize()
         {
             int charCount = 0;
@@ -40,6 +42,7 @@
                     }
         }
 
+        // Number 3
         public static void ReverseString() {
             Console.Write("Enter number integer : ");
             string? input = Console.ReadLine();
@@ -49,6 +52,7 @@
                     Console.Write(" " + input[i]);
         }
 
+        // Number 4
         public static void IterationGreatest()
         {
             int greatest = 0;
@@ -64,6 +68,7 @@
             Console.WriteLine("angka terbesar : {0}", greatest);
         }
 
+        // Number 5
         public static void DividerFactor()
         {
             Console.Write("Enter numbers : ");
@@ -76,6 +81,8 @@
             }
         }
 
+
+        // Number 6
         public static void RangedPrime()
         {
             int f = 0;
@@ -94,6 +101,7 @@
             }
         }
 
+        // Number 7
         public static void ReplaceMidde()
         {
             Console.Write("Enter strings : ");
@@ -113,7 +121,7 @@
             }
         }
 
-
+        // Number 8
         public static void SaturdayCountdown()
         {
             int more = 0;
@@ -132,7 +140,7 @@
             Console.WriteLine($"{more} hari lagi!");
         }
 
-
+        // Number 9
         public static void FindChars()
         {
             Console.Write("Enter strings : ");
@@ -168,6 +176,7 @@
             Console.WriteLine("Total kata yang muncul : {0} dari text : {1}", finalFound, input);
         }
 
+        // Number 10
         public static void FindSecondGreatest() 
         {
             var grts = 0;
@@ -189,6 +198,7 @@
             Console.WriteLine("Second Greatest : {0}", scnd);
         }
 
+        // Number 11
         public static bool CheckKurawal(string curlies) 
         {
             int balance = 0;
@@ -203,7 +213,8 @@
 
             return balance == 0;
         }
-    
+
+        // Number 12    
         public static void Pyramid(char kind)
         {
             if (kind == '1')
