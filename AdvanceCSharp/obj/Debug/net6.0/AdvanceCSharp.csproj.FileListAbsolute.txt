@@ -1,0 +1,15 @@
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\AdvanceCSharp\bin\Debug\net6.0\AdvanceCSharp.exe
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\AdvanceCSharp\bin\Debug\net6.0\AdvanceCSharp.deps.json
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\AdvanceCSharp\bin\Debug\net6.0\AdvanceCSharp.runtimeconfig.json
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\AdvanceCSharp\bin\Debug\net6.0\AdvanceCSharp.dll
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\AdvanceCSharp\bin\Debug\net6.0\AdvanceCSharp.pdb
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\AdvanceCSharp\obj\Debug\net6.0\AdvanceCSharp.csproj.AssemblyReference.cache
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\AdvanceCSharp\obj\Debug\net6.0\AdvanceCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\AdvanceCSharp\obj\Debug\net6.0\AdvanceCSharp.AssemblyInfoInputs.cache
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\AdvanceCSharp\obj\Debug\net6.0\AdvanceCSharp.AssemblyInfo.cs
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\AdvanceCSharp\obj\Debug\net6.0\AdvanceCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\AdvanceCSharp\obj\Debug\net6.0\AdvanceCSharp.dll
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\AdvanceCSharp\obj\Debug\net6.0\refint\AdvanceCSharp.dll
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\AdvanceCSharp\obj\Debug\net6.0\AdvanceCSharp.pdb
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\AdvanceCSharp\obj\Debug\net6.0\AdvanceCSharp.genruntimeconfig.cache
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\AdvanceCSharp\obj\Debug\net6.0\ref\AdvanceCSharp.dll

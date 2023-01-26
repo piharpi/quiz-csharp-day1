@@ -5,7 +5,9 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamental", "Fundamental\Fundamental.csproj", "{CC9D1DB1-9603-4BEE-BAE3-6C75E68B79DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsefulConcept", "UsefulConcept\UsefulConcept.csproj", "{64D84F26-C944-4109-BAA7-32A1FA4B3F97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsefulConcept", "UsefulConcept\UsefulConcept.csproj", "{64D84F26-C944-4109-BAA7-32A1FA4B3F97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvanceCSharp", "AdvanceCSharp\AdvanceCSharp.csproj", "{2A30EB2B-C3F1-464D-B0DC-0D8FD289508F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{64D84F26-C944-4109-BAA7-32A1FA4B3F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64D84F26-C944-4109-BAA7-32A1FA4B3F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64D84F26-C944-4109-BAA7-32A1FA4B3F97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A30EB2B-C3F1-464D-B0DC-0D8FD289508F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A30EB2B-C3F1-464D-B0DC-0D8FD289508F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A30EB2B-C3F1-464D-B0DC-0D8FD289508F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A30EB2B-C3F1-464D-B0DC-0D8FD289508F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
