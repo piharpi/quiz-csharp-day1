@@ -1,0 +1,15 @@
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\UsefulConcept\bin\Debug\net6.0\UsefulConcept.exe
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\UsefulConcept\bin\Debug\net6.0\UsefulConcept.deps.json
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\UsefulConcept\bin\Debug\net6.0\UsefulConcept.runtimeconfig.json
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\UsefulConcept\bin\Debug\net6.0\UsefulConcept.dll
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\UsefulConcept\bin\Debug\net6.0\UsefulConcept.pdb
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\UsefulConcept\obj\Debug\net6.0\UsefulConcept.csproj.AssemblyReference.cache
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\UsefulConcept\obj\Debug\net6.0\UsefulConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\UsefulConcept\obj\Debug\net6.0\UsefulConcept.AssemblyInfoInputs.cache
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\UsefulConcept\obj\Debug\net6.0\UsefulConcept.AssemblyInfo.cs
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\UsefulConcept\obj\Debug\net6.0\UsefulConcept.csproj.CoreCompileInputs.cache
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\UsefulConcept\obj\Debug\net6.0\UsefulConcept.dll
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\UsefulConcept\obj\Debug\net6.0\refint\UsefulConcept.dll
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\UsefulConcept\obj\Debug\net6.0\UsefulConcept.pdb
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\UsefulConcept\obj\Debug\net6.0\UsefulConcept.genruntimeconfig.cache
+C:\Users\Code.id\Downloads\Batch20CSharpFundamental-master\Batch20CSharpFundamental-master\UsefulConcept\obj\Debug\net6.0\ref\UsefulConcept.dll
